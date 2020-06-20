@@ -7,4 +7,11 @@
 
 # Info
 
-PyDOS Is A DOS Runned On Python. This Will Also Get BASPY. BASPY Is BASIC On Python.
+PyDOS Is A DOS Runned On Python.
+
+# How To Install
+
+* Download It.
+* Install Python 3.8
+* Install Colorama Using `pip install colorama`
+* Done.
